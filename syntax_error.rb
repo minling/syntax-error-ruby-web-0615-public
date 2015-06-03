@@ -5,6 +5,6 @@ def invalid
   false
 end
 
-1.times |valid| do
+1.times do |valid|
   puts true
 end
